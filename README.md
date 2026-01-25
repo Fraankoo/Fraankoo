@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Fraankoo!
 
-<!--
-**Fraankoo/Fraankoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student (final year) from Sardinia, Italy  
+💻 Little experience, lots of passion for coding  
 
-Here are some ideas to get you started:
+## 📖 Currently learning
+- Programming fundamentals
+- C++ / Java / Python
+- Git and GitHub
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- C++
+- Java
+- HTML / CSS
+
+## 📌 Projects
+- School exercises and small personal projects
+- Repositories created to learn and experiment
+
+## 🚀 Goals
+- Improve my programming skills
+- Build more complete and meaningful projects
+
+## Also take a look at my [friend](https://github.com/Kerlooo)'s profile!
