@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fraankoo!
 
-🎓 Computer Science student (final year) from Sardinia, Italy  
+🎓 Computer Science student graduate from Sardinia, Italy  
 💻 Little experience, lots of passion for coding  
 
 ## 📖 Currently learning
